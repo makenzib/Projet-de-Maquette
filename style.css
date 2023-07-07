@@ -1,0 +1,22 @@
+*{
+marging:0; 
+padding:0
+box-sizing: border-box;
+}
+.logo{
+background-color: red;
+grid-arae:logo
+display:flex;
+}
+
+.nav{baground-color:skyblue;
+grid-arae: nav}
+
+.features{background-color:puple;}
+
+.content{background-color:yellow}
+
+.footer{background-color:gray}
+.parent{height:100vh
+display:grid;
+grid-template-columns:}
